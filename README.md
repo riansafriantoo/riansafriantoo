@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @riansafriantoo
-- 👀 I’m interested in PHP, JavaScript, and MySql
-- 🌱 I’m currently learning ReactJS, NodeJs.
-- 💞️ I’m looking to collaborate on Front End Developer
-- 📫 How to reach me via email: rian.safrianto@outlook.com or riansafr@gmail.com
+- 👀 Understanding PHP, JavaScript, and MySql, Golang, and ReactJs
+- 🌱 Currently learning NextJs.
+- 💞️ Looking to collaborate on Front End Developer
+- 📫 reach me via email: rian.safrianto@outlook.com or riansafr@gmail.com
 
 <!---
 riansafriantoo/riansafriantoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
