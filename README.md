@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @riansafriantoo
 - 👀 Understanding PHP, JavaScript, and MySql, Golang, and ReactJs
 - 🌱 Currently learning NextJs.
-- 💞️ Looking to collaborate on Front End Developer
+- 💞️ Looking to collaborate on Back End Developer
 - 📫 reach me via email: rian.safrianto@outlook.com or riansafr@gmail.com
 
 <!---
